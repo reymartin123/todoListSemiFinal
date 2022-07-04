@@ -74,6 +74,86 @@
 }
 
 .centerMass {
-  text-align: center !important;
-  align-items: center !important;
+  text-align: center;
+  align-items: center;
+}
+
+.siteTheme {
+  background-color: $ms-color-themePrimary;
+  border-color: $ms-color-themePrimary;
+  color: $ms-color-white;
+}
+
+.panelHeaderV2 {
+  font-weight: 300;
+  padding: 10px;
+  margin: 1em 0em !important;
+  font-size: 1.4em;
+}
+
+.awkwardSmtoMdHeader {
+  @media screen and (min-width: 768px) {
+    width: 50% !important;
+  }
+}
+.awkwardSmtoMdStatus {
+  @media screen and (min-width: 768px) {
+    width: 50% !important;
+    text-align: right !important;
+  }
+}
+.awkwardMdtoLg1 {
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    width: 8.33% !important;
+  }
+}
+.awkwardMdtoLg2 {
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    width: 16.66% !important;
+  }
+}
+.awkwardMdtoLg3 {
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    width: 25% !important;
+  }
+}
+.awkwardMdtoLg4 {
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    width: 33.33% !important;
+  }
+}
+.awkwardMdtoLg5 {
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    width: 41.66% !important;
+  }
+}
+.awkwardMdtoLg6 {
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    width: 50% !important;
+  }
+}
+.awkwardMdtoLg7 {
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    width: 58.33% !important;
+  }
+}
+.awkwardMdtoLg8 {
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    width: 66.66% !important;
+  }
+}
+.awkwardMdtoLg9 {
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    width: 75% !important;
+  }
+}
+.awkwardMdtoLg10 {
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    width: 83.33% !important;
+  }
+}
+.awkwardMdtoLg11 {
+  @media screen and (max-width: 1023px) and (min-width: 768px) {
+    width: 91.66% !important;
+  }
 }
