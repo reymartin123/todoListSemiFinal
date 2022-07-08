@@ -1,0 +1,30 @@
+declare const styles: {
+    todolistwebpart: string;
+    container: string;
+    row: string;
+    column: string;
+    'ms-Grid': string;
+    title: string;
+    subTitle: string;
+    description: string;
+    button: string;
+    label: string;
+    centerMass: string;
+    siteTheme: string;
+    panelHeaderV2: string;
+    awkwardSmtoMdHeader: string;
+    awkwardSmtoMdStatus: string;
+    awkwardMdtoLg1: string;
+    awkwardMdtoLg2: string;
+    awkwardMdtoLg3: string;
+    awkwardMdtoLg4: string;
+    awkwardMdtoLg5: string;
+    awkwardMdtoLg6: string;
+    awkwardMdtoLg7: string;
+    awkwardMdtoLg8: string;
+    awkwardMdtoLg9: string;
+    awkwardMdtoLg10: string;
+    awkwardMdtoLg11: string;
+};
+export default styles;
+//# sourceMappingURL=Todolistwebpart.module.scss.d.ts.map
